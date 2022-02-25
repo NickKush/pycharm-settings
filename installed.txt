@@ -1,0 +1,6 @@
+IdeaVIM
+com.intellij.tailwindcss
+com.samdark.intellij-visual-studio-code-dark-plus
+izhangzhihao.rainbow.brackets
+org.jetbrains.plugins.vue
+ru.meanmail.plugin.requirements
